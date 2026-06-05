@@ -1,2 +1,6 @@
-# Momin-jaan
-AI prompt and Projects collection by syeda Hafsa Asad bukhari For learning and  job portfolio 
+# AI Prompts & Projects Portfolio
+
+Assalam o Alaikum 👋  
+Main Syeda Hafsa Asad Bukhari hun.
+
+Ye repo mere AI prompts, learning projects aur job portfolio ke liye hai.
